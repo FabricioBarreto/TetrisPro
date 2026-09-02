@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "vitest": "^4.1.11"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "name": "tetrispro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricioBarreto/TetrisPro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabricioBarreto/TetrisPro/issues"
+  },
+  "homepage": "https://github.com/FabricioBarreto/TetrisPro#readme"
+}
