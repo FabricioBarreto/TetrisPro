@@ -1,6 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?709C54F1ED3233E7CF12E55246B0C54D2F1C
-
-
+https://prod.liveshare.vsengsaas.visualstudio.com/join?93EFD37DC155BD2BFCA5187FEC914771398A
 
 type Venta = {
   producto: string;
